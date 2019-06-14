@@ -1,0 +1,275 @@
+{
+  "project_info": {
+    "project_number": "864755324372",
+    "firebase_url": "https://chuannae.firebaseio.com",
+    "project_id": "chuannae",
+    "storage_bucket": "chuannae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864755324372:android:31b4646845e7c891",
+        "android_client_info": {
+          "package_name": "com.chuannae.rueangyottreematandjeerasakkrueaniam.chuannae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864755324372-o8rjgq6njm46upu583uu3bjguntpkgrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chuannae.rueangyottreematandjeerasakkrueaniam.chuannae",
+            "certificate_hash": "00821f99b210a9991ac957c6d04bbb12d76c7b8f"
+          }
+        },
+        {
+          "client_id": "864755324372-n9ior7t6rnjt3bvob9usc2ipucfqt589.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnWWCkCFKBUzEOUJnVUL8WOuHVRVy679I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864755324372-n9ior7t6rnjt3bvob9usc2ipucfqt589.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864755324372:android:03ac944b1735e4a8",
+        "android_client_info": {
+          "package_name": "com.chuannae.rueangyottreematandjeerasakkrueaniam.firebaseauthfacebookandgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864755324372-8a7ch1bs7h212rstih7kfiikkf559b5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chuannae.rueangyottreematandjeerasakkrueaniam.firebaseauthfacebookandgoogle",
+            "certificate_hash": "00821f99b210a9991ac957c6d04bbb12d76c7b8f"
+          }
+        },
+        {
+          "client_id": "864755324372-n9ior7t6rnjt3bvob9usc2ipucfqt589.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnWWCkCFKBUzEOUJnVUL8WOuHVRVy679I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864755324372-n9ior7t6rnjt3bvob9usc2ipucfqt589.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864755324372:android:922facf0f81813fa",
+        "android_client_info": {
+          "package_name": "com.chuannae.rueangyottreematandjeerasakkrueaniam.mytracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864755324372-mppamkob57vgi9spgvarvhfgin9rcvd7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chuannae.rueangyottreematandjeerasakkrueaniam.mytracker",
+            "certificate_hash": "00821f99b210a9991ac957c6d04bbb12d76c7b8f"
+          }
+        },
+        {
+          "client_id": "864755324372-n9ior7t6rnjt3bvob9usc2ipucfqt589.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnWWCkCFKBUzEOUJnVUL8WOuHVRVy679I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864755324372-n9ior7t6rnjt3bvob9usc2ipucfqt589.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864755324372:android:7a62b7348f130f2b",
+        "android_client_info": {
+          "package_name": "rueangyottreematandjeerasakkrueaniam.chuannae.com.chuannae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864755324372-j7kl1j1i0s3ufo5r5hh7tog3f7gi4kgr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rueangyottreematandjeerasakkrueaniam.chuannae.com.chuannae",
+            "certificate_hash": "00821f99b210a9991ac957c6d04bbb12d76c7b8f"
+          }
+        },
+        {
+          "client_id": "864755324372-n9ior7t6rnjt3bvob9usc2ipucfqt589.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnWWCkCFKBUzEOUJnVUL8WOuHVRVy679I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864755324372-n9ior7t6rnjt3bvob9usc2ipucfqt589.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864755324372:android:817163683a9aab2e",
+        "android_client_info": {
+          "package_name": "rueangyottreematandjeerasakkrueaniam.chuannae.com.myapplicationchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864755324372-i7quovru1chpg0i5oguvdf5kshiunfg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rueangyottreematandjeerasakkrueaniam.chuannae.com.myapplicationchat",
+            "certificate_hash": "00821f99b210a9991ac957c6d04bbb12d76c7b8f"
+          }
+        },
+        {
+          "client_id": "864755324372-n9ior7t6rnjt3bvob9usc2ipucfqt589.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnWWCkCFKBUzEOUJnVUL8WOuHVRVy679I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864755324372-n9ior7t6rnjt3bvob9usc2ipucfqt589.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864755324372:android:7087aeedfce35f86",
+        "android_client_info": {
+          "package_name": "rueangyottreematandjeerasakkrueaniam.chuannae.com.postapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864755324372-0ernt8vfhe97hh67d838dg873l6u7arm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rueangyottreematandjeerasakkrueaniam.chuannae.com.postapp",
+            "certificate_hash": "00821f99b210a9991ac957c6d04bbb12d76c7b8f"
+          }
+        },
+        {
+          "client_id": "864755324372-n9ior7t6rnjt3bvob9usc2ipucfqt589.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnWWCkCFKBUzEOUJnVUL8WOuHVRVy679I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864755324372-n9ior7t6rnjt3bvob9usc2ipucfqt589.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
